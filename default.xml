@@ -1032,7 +1032,7 @@
 
   <include name="snippets/infinity.xml" />
  
-  <include name="snippets/lineage.xml" />
+  <!--include name="snippets/lineage.xml" -->
   <include name="snippets/oplus-common.xml" />
   <include name="snippets/macan.xml" />
   
